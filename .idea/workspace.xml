@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d5fedd-82f9-46ab-9b40-24733d7397cf" name="Changes" comment="need to include jupiter engine in pom to get goal test running">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="40d5fedd-82f9-46ab-9b40-24733d7397cf" name="Changes" comment="I make a commit with a failing test to later analyze the impact that has on my jenkins, which is actually pulling every minute for updates">
       <change beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <updated>1672224408256</updated>
       <workItem from="1672224409173" duration="500000" />
       <workItem from="1672224930520" duration="153000" />
-      <workItem from="1672225120434" duration="3556000" />
+      <workItem from="1672225120434" duration="3937000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1672224545057</created>
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672239475053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I make a commit with a failing test to later analyze the impact that has on my jenkins, which is actually pulling every minute for updates">
+      <created>1672242611944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672242611944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +140,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Included a very simple Test to practice with Jenkins Test Result reporting" />
     <MESSAGE value="need to include jupiter engine in pom to get goal test running" />
-    <option name="LAST_COMMIT_MESSAGE" value="need to include jupiter engine in pom to get goal test running" />
+    <MESSAGE value="I make a commit with a failing test to later analyze the impact that has on my jenkins, which is actually pulling every minute for updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="I make a commit with a failing test to later analyze the impact that has on my jenkins, which is actually pulling every minute for updates" />
   </component>
 </project>

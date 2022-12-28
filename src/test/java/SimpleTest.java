@@ -17,5 +17,12 @@ public class SimpleTest {
         assertEquals(1,  2);
     }
 
+    @Test
+    @DisplayName("This Test never fails.")
+    public void aTestThatNeverFails(){
+        assertEquals(1,  1);
+    }
+
+
 
 }
