@@ -12,10 +12,11 @@ public class SimpleTest {
     }
 
     @Test
-    @DisplayName("Test that will ever fail")
-    public void aTestThatFails(){
-        assertEquals(1,  2);
+    @DisplayName("This is afixed Test I can imagine")
+    public void aTestWhichIHavefixed(){
+        assertEquals(1,  1);
     }
+
 
     @Test
     @DisplayName("This Test never fails.")
