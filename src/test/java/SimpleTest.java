@@ -11,4 +11,11 @@ public class SimpleTest {
         assertEquals(1,  1);
     }
 
+    @Test
+    @DisplayName("Test that will ever fail")
+    public void aTestThatFails(){
+        assertEquals(1,  2);
+    }
+
+
 }
